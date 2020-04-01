@@ -57,7 +57,7 @@ a:hover{
 
 /* header */
 #header{
-   background-image: linear-gradient(
+   background: linear-gradient(
         to right,
         rgba(33,32,32, 0.6),
         rgba(0,0,0, 0.3)
