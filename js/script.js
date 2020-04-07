@@ -52,8 +52,8 @@ $(document).ready(function () {
 
     //ripples effect
     $("#header, .info").ripples({
-        dropRadius: 18,
-        perturbance: 0.2
+        dropRadius: 20,
+        perturbance: 0.04
         
       });
 
